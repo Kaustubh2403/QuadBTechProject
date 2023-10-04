@@ -1,0 +1,8 @@
+{
+    "DATABASE_NAME":"testproject",
+    "DATABASE_USERNAME":"root",
+    "DATABASE_PASSWORD":"citylink",
+    "DATABASE_HOST":"localhost",
+    "DATABASE_PORT":"3306",
+    "SERVER_PORT" : 4001
+}
